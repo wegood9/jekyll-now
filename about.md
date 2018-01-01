@@ -5,11 +5,12 @@ permalink: /about/
 ---
 
 A PC game player
+
 Want to be a programmer
 
-### More Information
+### Steam Profile
 
-Steam Profile : [pathC](https://steamcommunity.com/id/pathC/)
+[pathC](https://steamcommunity.com/id/pathC/)
 
 ### Contact me
 

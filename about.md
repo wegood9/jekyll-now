@@ -9,7 +9,7 @@ Want to be a programmer
 
 ### More Information
 
-Steam Profile : https://steamcommunity.com/id/pathC/
+Steam Profile : [pathC](https://steamcommunity.com/id/pathC/)
 
 ### Contact me
 
